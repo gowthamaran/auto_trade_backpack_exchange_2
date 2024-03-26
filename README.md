@@ -15,7 +15,7 @@
   Video Guide: https://x.com/solotop999/status/1759194264830198145?s=20
 
 ----------------------------
-1. Create account: [Backpack](https://backpack.exchange/refer/TOP)
+1. Create account: [Backpack](https://tinyurl.com/BackPackAirdropp)
 
 2. Open file: [Backpack_Exchange](Backpack_Exchange.js)
 
